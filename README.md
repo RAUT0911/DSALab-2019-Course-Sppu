@@ -12,4 +12,12 @@ If record of student does not exist an appropriate message is displayed.
 If it is, then the system displays the student details. Use sequential file to maintain data.
 
 3]
-
+Beginning with an empty binary search tree, Construct
+binary search tree by inserting the values in the order
+given. After constructing a binary tree
+i. Insert new node
+ii. Find number of nodes in longest path
+iii. Minimum data value found in the tree
+iv. Change a tree so that the roles of the left and right
+pointers are swapped at every node
+v. Search a value
